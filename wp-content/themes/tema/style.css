@@ -1,0 +1,176 @@
+/*
+Theme Name: Bravana
+Template Theme URI:  
+Author: Enrique Valerio 
+Description: Desarrollada especialmente para apredizaje sobre WordPress. 
+Version: 1.0 
+*/
+
+
+
+
+
+/* Generales */
+/* a {
+  color: #5b2e00;
+}
+a:focus, a:hover {
+  color: #894400;
+  text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6 {
+  color: #5B2E00;
+  font-family: 'Palanquin Dark', sans-serif;
+  } */
+
+  /* Etiquetas */
+/* .etiqueta {
+  padding: 7px 0px 12px 0px;
+  border-radius: 4px;
+}
+.etiqueta > ul {
+  list-style: none;
+}
+.etiqueta > ul > li {
+  float: left;
+  padding: 0px 12px 0px 0px;
+}
+.etiqueta > ul > li > a {
+  color: #3F2711;
+}
+.etiqueta > ul > li > a:hover {
+  color: #b27940;
+}
+.etiqueta > ul > li > a::before {
+  content: "\f02c \0020";
+  } */
+
+  /* Footer general */
+/* footer {
+  background: #5b2e00;
+  color: #d9d9d9;
+  padding: 7px 0px 12px 0px;
+  border-radius: 4px;
+}
+footer > ul {
+  list-style: none;
+}
+footer > ul > li {
+  float: left;
+  padding: 0px 12px 0px 0px;
+}
+footer > ul > li > a {
+  color: #fff;
+}
+footer > ul > li > a:hover {
+  color: #b27940;
+}
+footer > ul > li > a::before {
+  content: "\f02c \0020";
+}
+
+#footer_categorias {
+  color: #333;
+  background-color: transparent !important;
+  padding: 7px 7px 7px 7px;
+}
+#footer_categorias > a {
+  padding-left: 3px;
+  } */
+
+  /* Header */
+/* #cabecera {
+  background-image: url("img/fondo1.jpg");
+  background-position: right;
+  height: 250px;
+  max-height: 250px;
+}
+#titulo1 {
+  color: #ddd;
+  text-shadow: 2px 2px 2px #333;
+  font-family: 'Palanquin Dark', sans-serif;
+  } */
+
+  /* Iconos FontAwesome*/
+/* .fa {
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome, 'Palanquin Dark', sans-serif;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  } */
+
+  /* Menu */
+/* .menu {
+  font-size: 1.7rem;
+  list-style: none;
+}
+.menu > li {
+  float: left;
+  padding: 12px 7px 0px 7px;
+}
+.menu > li > a {
+  color: #5B2E00;
+  margin-right: 2px;
+  line-height: 1.42857143;
+  border-bottom: 2px solid transparent;
+}
+.menu > li > a:hover,
+.menu > li > a:focus {
+  color: #333;
+  cursor: default;
+  border-bottom-color: #5B2E00;
+  text-decoration: none;
+  } */
+
+  /*Pié de página*/
+/* #pie {
+  background: #3f2711 !important;
+  color: #d9d9d9;
+  padding: 10px 0px 15px 0px;
+  border-radius: 0;
+  } */
+
+  /* Categoría en los post */
+/* .post-categories {
+  list-style: none;
+}
+.post-categories li {
+  float: left;
+  padding: 0px 7px 5px 7px;
+}
+.post-categories > li > a::before {
+  content: "\f2c5 \0020";
+  } */
+
+/* .screen-reader-text {display: none;}
+*/
+/* SideBar */
+/* .fondo {
+  background-image: url("img/panoleta.jpg");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: 100%;
+}
+#recentcomments {
+  padding: 0px;
+}
+.widget {
+  background-color: rgba(255, 255, 255, 0.5) !important;
+  padding: 3px 14px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  border-radius: 4px;  
+}
+.widget > ul {
+  list-style: none;
+  padding: 0px;
+}
+#wp-calendar > tbody > tr > td > a {
+  color: green;
+  font-weight: bold;
+}#wp-calendar > tbody > tr > td > a:hover {
+  color: #00a000;
+  font-weight: bold;
+  } */

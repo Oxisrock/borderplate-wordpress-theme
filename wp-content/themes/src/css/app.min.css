@@ -1,0 +1,20 @@
+/*Hoja de Estilo
+* Desarrollada para el proyecto: Wordpress con Gulp
+* Por: Enrique Valerio
+* Junio 2018
+*/
+
+/* CSS Externos */
+@import './font-awesome.css';
+@import './elegant-icons.css';
+@import './bootstrap.css';
+@import './main.css';
+/* CSS del tema */
+@import './partials/variables.css';
+@import './partials/mediaquery.css';
+@import './partials/tipografia.css';
+@import './partials/custom.css';
+
+/******************************
+MEDIA-QUERIES
+*******************************/

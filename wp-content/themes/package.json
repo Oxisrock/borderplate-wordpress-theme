@@ -1,0 +1,33 @@
+{
+  "name": "wordpress_gulp",
+  "version": "1.0.0",
+  "description": "Tema de Wordpress apoyando con Gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XXXXXXXXXXXXXXX"
+  },
+  "author": "Enrique Valerio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XXXXXXXXXXXXXXX/issues"
+  },
+  "homepage": "https://github.com/XXXXXXXXXXXXXXX#readme",
+  "devDependencies": {
+    "autoprefixer": "^8.6.3",
+    "css-mqpacker": "^6.0.2",
+    "csswring": "^6.0.3",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "postcss-cssnext": "^3.1.0",
+    "postcss-import": "^11.1.0",
+    "postcss-mixins": "^6.2.0",
+    "postcss-nested": "^3.0.0",
+    "rucksack-css": "^1.0.2"
+  },
+  "dependencies": {}
+}
