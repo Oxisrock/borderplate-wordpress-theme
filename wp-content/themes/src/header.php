@@ -11,7 +11,7 @@
 	<!-- FAVICONS -->
 	<link rel="shortcut icon" href="<?php bloginfo('template_url') ?>/favicon.ico">
 	<!-- CSS Core -->
-	<link rel="stylesheet" href="<?php bloginfo('template_url') ?>/css/app.min.css">
+	<link rel="stylesheet" href="<?php bloginfo('template_url') ?>/assets/css/app.min.css">
 	<!-- Google Fonts -->
 	<link href='https://fonts.googleapis.com/css?family=Raleway:700,400,400italic,500' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Lato:400,400italic,700,300,300italic' rel='stylesheet' type='text/css'>
@@ -30,7 +30,7 @@
 					<i class="fa fa-bars"></i>
 				</button>
 				<a href="<?php bloginfo('url') ?>/index.php" class="navbar-brand">
-					<img src="<?php bloginfo('template_url') ?>/img/logo/bravana-lite-logo.png" alt="Bravana Logo">
+					<img src="<?php bloginfo('template_url') ?>/assets/img/logo/bravana-lite-logo.png" alt="Bravana Logo">
 				</a>
 
 				<div id="main-nav-collapse" class="collapse navbar-collapse navegacion-01">

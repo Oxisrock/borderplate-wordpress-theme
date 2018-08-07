@@ -31,7 +31,7 @@ gulp.task('css', function () {
     rucksack(),
     cssnext({browsers:'last 5 versions'}),
     mqpacker,
-    // csswring()
+    csswring()
   ]
   return gulp.src(['./src/css/*.css','./src/css/*.min.css'])
     .pipe(postcss(processors))
