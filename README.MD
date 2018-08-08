@@ -7,6 +7,9 @@
 ## Installation
 
 >  #1 Clone this repository#2 Install nodejs (version > 6) and npm (version > 3) in your computer
+>  #2 Install node in system unix 
+    curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+    sudo apt-get install -y nodejs
 >  #3 Go to the wp-content/themes directory in the terminal
 >  #4 run first is comand 
 + sudo npm install --save-dev gulp gulp-postcss gulp-sourcemaps autoprefixer postcss-cssnext postcss-nested postcss-mixins postcss-import csswring rucksack-css css-mqpacker
